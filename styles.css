@@ -6,7 +6,8 @@ body {
 h3{
     text-align: center; 
 }
-li {
+.main-section {
     justify-content: center;
     text-align: center;
   }
+  
