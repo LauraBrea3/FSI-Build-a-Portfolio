@@ -2,6 +2,7 @@ body {
     background-color: lavender;
     color: darkslateblue;
     text-align: center;
+    font-family: trebuchet MS sans serif;
 }
 h3 {
     text-align: center; 
@@ -15,8 +16,8 @@ border-radius: 10px;
 
 }
 h1 {
-    font-family: Gill Sans;
+    font-family: Georgia serif;
 }
 .heading {
-    font-family: Gill Sans;
+    font-family: Georgia serif;
 }
