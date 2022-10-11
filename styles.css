@@ -23,5 +23,6 @@ text-transform: Uppercase;
 .heading {
     font-family: "Gill Sans";
 border: 3px solid plum;
+display: inline;
 
 }
