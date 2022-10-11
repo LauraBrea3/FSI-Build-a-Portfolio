@@ -16,9 +16,12 @@ border-radius: 20px;
 }
 .my-name {
     font-family: "Gill Sans";
+text-decoration: underline;
+text-transform: Uppercase;
 
 }
 .heading {
     font-family: "Gill Sans";
+border: 3px solid plum;
 
 }
