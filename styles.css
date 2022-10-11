@@ -28,5 +28,9 @@ text-align: center;
 }
 .images {
     border: 4px dotted plum;
+
+}
+div {
+    cursor: pointer;
     
 }
