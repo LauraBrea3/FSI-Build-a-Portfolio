@@ -34,3 +34,9 @@ div {
     cursor: pointer;
 
 }
+.emphasis {
+    font-style: Italic;
+}
+.Bold {
+    font-style: Bold;
+}
