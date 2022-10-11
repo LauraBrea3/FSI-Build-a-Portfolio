@@ -18,7 +18,7 @@ border-radius: 20px;
     font-family: "Gill Sans";
 text-decoration: underline;
 text-transform: Uppercase;
-
+color: plum;
 }
 .heading {
     font-family: "Gill Sans";
@@ -32,5 +32,5 @@ text-align: center;
 }
 div {
     cursor: pointer;
-    
+
 }
